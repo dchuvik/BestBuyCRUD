@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestBuy DB", "BestBuy DB\BestBuy DB.csproj", "{261C8F32-70D4-444D-BC4A-378B1D670A0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261C8F32-70D4-444D-BC4A-378B1D670A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261C8F32-70D4-444D-BC4A-378B1D670A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261C8F32-70D4-444D-BC4A-378B1D670A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261C8F32-70D4-444D-BC4A-378B1D670A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C894A7DB-9236-42B8-9A9E-116C0542864A}
+	EndGlobalSection
+EndGlobal

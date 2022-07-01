@@ -1,0 +1,92 @@
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\BestBuy DB.exe
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\BestBuy DB.deps.json
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\BestBuy DB.runtimeconfig.json
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\BestBuy DB.runtimeconfig.dev.json
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\BestBuy DB.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\BestBuy DB.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.csproj.AssemblyReference.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.AssemblyInfoInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.AssemblyInfo.cs
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.csproj.CoreCompileInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.csproj.CopyComplete
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuy DB\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.genruntimeconfig.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\BestBuy DB.exe
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\BestBuy DB.deps.json
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\BestBuy DB.runtimeconfig.json
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\BestBuy DB.runtimeconfig.dev.json
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\BestBuy DB.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\BestBuy DB.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.csproj.AssemblyReference.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.AssemblyInfoInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.AssemblyInfo.cs
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.csproj.CoreCompileInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.csproj.CopyComplete
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\BestBuyBestPracitices\BestBuy DB\obj\Debug\netcoreapp3.1\BestBuy DB.genruntimeconfig.cache
